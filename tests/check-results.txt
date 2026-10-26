@@ -1,0 +1,6 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> video-plot-twist-extension@1.2.0 check
+> node tools/check.cjs
+
+All JavaScript parses; manifest references and bundled clip verified.

@@ -1,0 +1,14 @@
+{
+  "name": "leiting-extension",
+  "private": true,
+  "version": "1.2.0",
+  "description": "Local-only MV3 video-region prank extension with test harness",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "test:browser": "node tests/browser.cjs",
+    "check": "node tools/check.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
