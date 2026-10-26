@@ -24,3 +24,5 @@
 ## 视频出处
 
 [B站 BV1iL8b6SEjU](https://www.bilibili.com/video/BV1iL8b6SEjU/)
+
+千万不要装在你朋友的浏览器里
