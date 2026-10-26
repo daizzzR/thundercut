@@ -1,4 +1,4 @@
-# leiting extension 1.2.0
+# ThunderCut 1.2.0
 
 Chrome / Edge Manifest V3 扩展。在网页原视频的矩形区域随机插入本地视频，不跳转页面，不替换原视频地址。
 

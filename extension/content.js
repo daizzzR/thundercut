@@ -79,7 +79,7 @@
         cooldownUntil = performance.now() + Math.max(settings.cooldown * 1000, 30000);
         if (!message.id) ready = false;
         // Do not expose clip names or media data to the host page.
-        console.info('[半路彩蛋]', message.reason || '无法播放；原视频已保留。');
+        console.info('[ThunderCut]', message.reason || '无法播放；原视频已保留。');
       }
     }
     if (message.type === 'PLAYER_LOST') disconnect();
@@ -195,7 +195,7 @@
     const resume = resumeOverride ?? (previous.ended ? false : settings.autoResume);
     if (sameMedia && resume && !previous.paused) video.play().catch(() => {
       // Browser policy can require another click; native controls stay available.
-      console.info('[半路彩蛋] 原视频已恢复，请点击播放继续。');
+      console.info('[ThunderCut] 原视频已恢复，请点击播放继续。');
     });
   }
   function tick() {

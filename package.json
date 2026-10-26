@@ -1,5 +1,5 @@
 {
-  "name": "leiting-extension",
+  "name": "thundercut",
   "private": true,
   "version": "1.2.0",
   "description": "Local-only MV3 video-region prank extension with test harness",

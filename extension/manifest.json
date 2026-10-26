@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "leiting extension",
+  "name": "ThunderCut",
   "version": "1.2.0",
   "description": "在正在观看的 HTML5 视频区域随机插入本地短片；可随时恢复原视频。无上传、无跳转。",
   "minimum_chrome_version": "120",
@@ -13,7 +13,7 @@
     "type": "module"
   },
   "action": {
-    "default_title": "leiting extension",
+    "default_title": "ThunderCut",
     "default_popup": "popup.html",
     "default_icon": {
       "32": "icons/32.png",

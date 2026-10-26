@@ -1,10 +1,10 @@
-# leiting extension
+# ThunderCut
 
 看着看着，突然进入新宿决战。
 
 一个免费开源的 Chrome / Edge 浏览器整活扩展，让网页视频随机切入本地短片，支持自定义 MP4 和触发时间。
 
-**[下载 ZIP](https://github.com/daizzzR/leiting-extension/archive/refs/heads/main.zip)**
+**[下载 ZIP](https://github.com/daizzzR/thundercut/archive/refs/heads/main.zip)**
 
 ## 安装
 
